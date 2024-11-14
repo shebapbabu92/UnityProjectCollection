@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sphere" size="1.000000 0.658711" />
+    <ImageTarget name="rectangle" size="1.000000 0.543769" />
+    <ImageTarget name="triangle1" size="1.000000 0.863333" />
+    <ImageTarget name="capsule" size="1.000000 0.888889" />
+    <ImageTarget name="cube" size="1.000000 1.107500" />
+    <ImageTarget name="flemingo" size="1.000000 1.400458" />
+    <ImageTarget name="peacock" size="1.000000 1.312563" />
+    <ImageTarget name="parrot" size="1.000000 1.400000" />
+    <ImageTarget name="owl" size="1.000000 1.192208" />
+    <ImageTarget name="lion" size="1.000000 1.244444" />
+    <ImageTarget name="elephant" size="1.000000 0.954167" />
+    <ImageTarget name="dog" size="1.000000 1.094567" />
+    <ImageTarget name="cat" size="1.000000 1.406000" />
+    <ImageTarget name="03_marker_minus" size="1.000000 1.000000" />
+    <ImageTarget name="02_marker_plus" size="1.000000 1.000000" />
+    <ImageTarget name="01_marker_content" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

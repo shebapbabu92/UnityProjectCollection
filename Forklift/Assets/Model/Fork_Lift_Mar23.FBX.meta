@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: 11d3a7a36aa14254f95257e974e75dd4
+timeCreated: 1523890608
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _GC_Rear wheel hub_-_CirPattern2_
+    100002: Boss-Extrude1
+    100004: Boss-Extrude10
+    100006: Boss-Extrude10[1]
+    100008: Boss-Extrude10[2]
+    100010: Boss-Extrude12
+    100012: Boss-Extrude12_1
+    100014: Boss-Extrude13
+    100016: Boss-Extrude13[1]
+    100018: Boss-Extrude13[2]
+    100020: Boss-Extrude14
+    100022: Boss-Extrude16
+    100024: Boss-Extrude19
+    100026: Boss-Extrude1_1
+    100028: Boss-Extrude1_2
+    100030: Boss-Extrude1_3
+    100032: Boss-Extrude1_4
+    100034: Boss-Extrude2
+    100036: Boss-Extrude20
+    100038: Boss-Extrude21
+    100040: Boss-Extrude22
+    100042: Boss-Extrude23
+    100044: Boss-Extrude25
+    100046: Boss-Extrude27
+    100048: Boss-Extrude28
+    100050: Boss-Extrude29
+    100052: Boss-Extrude2[1]
+    100054: Boss-Extrude2[2]
+    100056: Boss-Extrude2_1
+    100058: Boss-Extrude2_2
+    100060: Boss-Extrude2_3
+    100062: Boss-Extrude2_4
+    100064: Boss-Extrude2_5
+    100066: Boss-Extrude2_6
+    100068: Boss-Extrude2_7
+    100070: Boss-Extrude3
+    100072: Boss-Extrude30
+    100074: Boss-Extrude3[1]
+    100076: Boss-Extrude3[2]
+    100078: Boss-Extrude3_1
+    100080: Boss-Extrude3_10
+    100082: Boss-Extrude3_2
+    100084: Boss-Extrude3_3
+    100086: Boss-Extrude3_4
+    100088: Boss-Extrude3_5
+    100090: Boss-Extrude3_6
+    100092: Boss-Extrude3_7
+    100094: Boss-Extrude3_8
+    100096: Boss-Extrude3_9
+    100098: Boss-Extrude4
+    100100: Boss-Extrude4[1]
+    100102: Boss-Extrude4[1]_1
+    100104: Boss-Extrude4[2]
+    100106: Boss-Extrude4[2]_1
+    100108: Boss-Extrude4_1
+    100110: Boss-Extrude4_2
+    100112: Boss-Extrude4_3
+    100114: Boss-Extrude4_4
+    100116: Boss-Extrude4_5
+    100118: Boss-Extrude4_6
+    100120: Boss-Extrude5
+    100122: Boss-Extrude6
+    100124: Boss-Extrude6_1
+    100126: Boss-Extrude6_2
+    100128: Boss-Extrude6_3
+    100130: Boss-Extrude6_4
+    100132: Boss-Extrude6_5
+    100134: Boss-Extrude6_6
+    100136: Boss-Extrude7
+    100138: Boss-Extrude7_1
+    100140: Boss-Extrude8
+    100142: Boss-Extrude8_1
+    100144: Boss-Extrude9
+    100146: Boss-Extrude9_1
+    100148: Chamfer1
+    100150: Chamfer1_1
+    100152: CirPattern1
+    100154: CirPattern1[10]
+    100156: CirPattern1[11]
+    100158: CirPattern1[12]
+    100160: CirPattern1[13]
+    100162: CirPattern1[14]
+    100164: CirPattern1[15]
+    100166: CirPattern1[16]
+    100168: CirPattern1[17]
+    100170: CirPattern1[18]
+    100172: CirPattern1[19]
+    100174: CirPattern1[1]
+    100176: CirPattern1[1]_1
+    100178: CirPattern1[21]
+    100180: CirPattern1[22]
+    100182: CirPattern1[23]
+    100184: CirPattern1[24]
+    100186: CirPattern1[25]
+    100188: CirPattern1[26]
+    100190: CirPattern1[27]
+    100192: CirPattern1[28]
+    100194: CirPattern1[29]
+    100196: CirPattern1[2]
+    100198: CirPattern1[2]_1
+    100200: CirPattern1[30]
+    100202: CirPattern1[31]
+    100204: CirPattern1[32]
+    100206: CirPattern1[33]
+    100208: CirPattern1[34]
+    100210: CirPattern1[35]
+    100212: CirPattern1[36]
+    100214: CirPattern1[37]
+    100216: CirPattern1[38]
+    100218: CirPattern1[39]
+    100220: CirPattern1[3]
+    100222: CirPattern1[40]
+    100224: CirPattern1[41]
+    100226: CirPattern1[42]
+    100228: CirPattern1[43]
+    100230: CirPattern1[44]
+    100232: CirPattern1[45]
+    100234: CirPattern1[46]
+    100236: CirPattern1[47]
+    100238: CirPattern1[48]
+    100240: CirPattern1[49]
+    100242: CirPattern1[4]
+    100244: CirPattern1[50]
+    100246: CirPattern1[51]
+    100248: CirPattern1[52]
+    100250: CirPattern1[53]
+    100252: CirPattern1[54]
+    100254: CirPattern1[55]
+    100256: CirPattern1[56]
+    100258: CirPattern1[57]
+    100260: CirPattern1[58]
+    100262: CirPattern1[59]
+    100264: CirPattern1[60]
+    100266: CirPattern1[6]
+    100268: CirPattern1[7]
+    100270: CirPattern1[8]
+    100272: CirPattern1[9]
+    100274: CirPattern1_1
+    100276: CirPattern1_2
+    100278: CirPattern1_3
+    100280: CirPattern1_4
+    100282: CirPattern1_5
+    100284: CirPattern2
+    100286: CirPattern2[10]
+    100288: CirPattern2[1]
+    100290: CirPattern2[2]
+    100292: CirPattern2[3]
+    100294: CirPattern2[4]
+    100296: CirPattern2[5]
+    100298: CirPattern2[6]
+    100300: CirPattern2[7]
+    100302: CirPattern2[8]
+    100304: CirPattern2[9]
+    100306: Cut-Extrude1
+    100308: Cut-Extrude1[1]
+    100310: Cut-Extrude1[2]
+    100312: Cut-Extrude1[3]
+    100314: Cut-Extrude1_1
+    100316: Cut-Extrude1_2
+    100318: Cut-Extrude1_3
+    100320: Cut-Extrude24
+    100322: Cut-Extrude3
+    100324: Cut-Extrude31
+    100326: Cut-Extrude32
+    100328: Cut-Extrude33
+    100330: Cut-Extrude34
+    100332: Cut-Extrude35
+    100334: Cut-Extrude4
+    100336: Cut-Extrude6
+    100338: End cap1
+    100340: End cap2
+    100342: Extrude-Thin1
+    100344: Extrude-Thin1_1
+    100346: Extrude-Thin2
+    100348: Extrude-Thin4
+    100350: Fillet1
+    100352: Fillet10
+    100354: Fillet10_1
+    100356: Fillet1_1
+    100358: Fillet2
+    100360: Fillet2_1
+    100362: Fillet2_2
+    100364: Fillet2_3
+    100366: Fillet3
+    100368: Fillet4
+    100370: Fillet4_1
+    100372: Fillet4_2
+    100374: Fillet4_3
+    100376: Fillet5
+    100378: Fillet56
+    100380: Fillet6
+    100382: Fillet6_1
+    100384: Fillet7
+    100386: Fillet8
+    100388: Fork01
+    100390: Fork02
+    100392: Fork_Assey
+    100394: Fork_lift001
+    100396: //RootNode
+    100398: gm vypinac_P-C1553AB01GT:1
+    100400: gm vypinac_P-C1553AB01GT:2
+    100402: gm vypinac_P-C1553AB01GT:3
+    100404: gm vypinac_P-C1553AB01GT:4
+    100406: LPattern1
+    100408: LPattern1[10]
+    100410: LPattern1[11]
+    100412: LPattern1[12]
+    100414: LPattern1[13]
+    100416: LPattern1[14]
+    100418: LPattern1[15]
+    100420: LPattern1[16]
+    100422: LPattern1[17]
+    100424: LPattern1[1]
+    100426: LPattern1[2]
+    100428: LPattern1[3]
+    100430: LPattern1[4]
+    100432: LPattern1[5]
+    100434: LPattern1[6]
+    100436: LPattern1[7]
+    100438: LPattern1[8]
+    100440: LPattern1[9]
+    100442: Mirror1
+    100444: Mirror11
+    100446: Mirror12[1]
+    100448: Mirror12[2]
+    100450: Mirror12[3]
+    100452: Mirror12[4]
+    100454: Mirror12[5]
+    100456: Mirror12[6]
+    100458: Mirror12[7]
+    100460: Mirror14
+    100462: Mirror15
+    100464: Mirror16[1]
+    100466: Mirror16[2]
+    100468: Mirror17[1]
+    100470: Mirror17[2]
+    100472: Mirror18
+    100474: Mirror19[1]
+    100476: Mirror19[2]
+    100478: Mirror19[3]
+    100480: Mirror19[4]
+    100482: Mirror1[2]
+    100484: Mirror1[3]
+    100486: Mirror1_1
+    100488: Mirror1_2
+    100490: Mirror1_3
+    100492: Mirror1_4
+    100494: Mirror2
+    100496: Mirror21[1]
+    100498: Mirror21[2]
+    100500: Mirror22
+    100502: Mirror23
+    100504: Mirror24[1]
+    100506: Mirror24[2]
+    100508: Mirror25
+    100510: Mirror26[1]
+    100512: Mirror26[2]
+    100514: Mirror2[1]
+    100516: Mirror2[1]_1
+    100518: Mirror2[2]
+    100520: Mirror2[2]_1
+    100522: Mirror2[3]
+    100524: Mirror2[4]
+    100526: Mirror3
+    100528: Mirror3[1]
+    100530: Mirror3[2]
+    100532: Mirror3[3]
+    100534: Mirror3_1
+    100536: Mirror4[1]
+    100538: Mirror4[2]
+    100540: Mirror4[3]
+    100542: Mirror5
+    100544: Mirror6[1]
+    100546: Mirror6[2]
+    100548: Mirror6_11
+    100550: Mirror7
+    100552: Mirror7[1]
+    100554: Mirror7[2]
+    100556: Mirror8
+    100558: Mirror9
+    100560: Part14:1
+    100562: Part1:1
+    100564: Part23:1
+    100566: Rear Tyres
+    100568: Revolve1
+    100570: Revolve1_1
+    100572: Revolve2
+    100574: Revolve2_1
+    100576: Revolve2_2
+    100578: Revolve3
+    100580: seats:1
+    100582: Shell1
+    100584: Shell1_1
+    100586: Shell2
+    100588: Shell4
+    100590: Shell5
+    100592: Solid1
+    100594: Solid1 1
+    100596: Solid1 2
+    100598: Solid29
+    100600: Solid29 1
+    100602: Solid30
+    100604: Solid31
+    100606: Solid31 1
+    100608: Solid32
+    100610: Solid33
+    100612: Solid34
+    100614: Solid35
+    100616: Solid36
+    100618: Solid37
+    100620: Solid48
+    100622: Solid49
+    100624: Solid50
+    100626: Sweep1
+    100628: Sweep2
+    100630: Thicken3
+    100632: Trim_Extend4[1]
+    100634: Trim_Extend5
+    100636: Trim_Extend6[1]
+    100638: Trim_Extend6[2]
+    100640: Trim_Extend6[3]
+    100642: Tyre01
+    100644: Tyre02
+    100646: "t\xE4ndningsl\xE5s:1"
+    100648: "T\u011Bleso5"
+    100650: "T\u011Bleso5 1"
+    100652: "T\u011Bleso5 2"
+    100654: "T\u011Bleso5 3"
+    100656: "T\u011Bleso6"
+    100658: "T\u011Bleso6 1"
+    100660: "T\u011Bleso6 2"
+    100662: "T\u011Bleso6 3"
+    100664: "T\u011Bleso7"
+    100666: "T\u011Bleso7 1"
+    100668: "T\u011Bleso7 10"
+    100670: "T\u011Bleso7 11"
+    100672: "T\u011Bleso7 12"
+    100674: "T\u011Bleso7 13"
+    100676: "T\u011Bleso7 14"
+    100678: "T\u011Bleso7 15"
+    100680: "T\u011Bleso7 16"
+    100682: "T\u011Bleso7 17"
+    100684: "T\u011Bleso7 18"
+    100686: "T\u011Bleso7 19"
+    100688: "T\u011Bleso7 2"
+    100690: "T\u011Bleso7 20"
+    100692: "T\u011Bleso7 21"
+    100694: "T\u011Bleso7 22"
+    100696: "T\u011Bleso7 23"
+    100698: "T\u011Bleso7 3"
+    100700: "T\u011Bleso7 4"
+    100702: "T\u011Bleso7 5"
+    100704: "T\u011Bleso7 6"
+    100706: "T\u011Bleso7 7"
+    100708: "T\u011Bleso7 8"
+    100710: "T\u011Bleso7 9"
+    400000: _GC_Rear wheel hub_-_CirPattern2_
+    400002: Boss-Extrude1
+    400004: Boss-Extrude10
+    400006: Boss-Extrude10[1]
+    400008: Boss-Extrude10[2]
+    400010: Boss-Extrude12
+    400012: Boss-Extrude12_1
+    400014: Boss-Extrude13
+    400016: Boss-Extrude13[1]
+    400018: Boss-Extrude13[2]
+    400020: Boss-Extrude14
+    400022: Boss-Extrude16
+    400024: Boss-Extrude19
+    400026: Boss-Extrude1_1
+    400028: Boss-Extrude1_2
+    400030: Boss-Extrude1_3
+    400032: Boss-Extrude1_4
+    400034: Boss-Extrude2
+    400036: Boss-Extrude20
+    400038: Boss-Extrude21
+    400040: Boss-Extrude22
+    400042: Boss-Extrude23
+    400044: Boss-Extrude25
+    400046: Boss-Extrude27
+    400048: Boss-Extrude28
+    400050: Boss-Extrude29
+    400052: Boss-Extrude2[1]
+    400054: Boss-Extrude2[2]
+    400056: Boss-Extrude2_1
+    400058: Boss-Extrude2_2
+    400060: Boss-Extrude2_3
+    400062: Boss-Extrude2_4
+    400064: Boss-Extrude2_5
+    400066: Boss-Extrude2_6
+    400068: Boss-Extrude2_7
+    400070: Boss-Extrude3
+    400072: Boss-Extrude30
+    400074: Boss-Extrude3[1]
+    400076: Boss-Extrude3[2]
+    400078: Boss-Extrude3_1
+    400080: Boss-Extrude3_10
+    400082: Boss-Extrude3_2
+    400084: Boss-Extrude3_3
+    400086: Boss-Extrude3_4
+    400088: Boss-Extrude3_5
+    400090: Boss-Extrude3_6
+    400092: Boss-Extrude3_7
+    400094: Boss-Extrude3_8
+    400096: Boss-Extrude3_9
+    400098: Boss-Extrude4
+    400100: Boss-Extrude4[1]
+    400102: Boss-Extrude4[1]_1
+    400104: Boss-Extrude4[2]
+    400106: Boss-Extrude4[2]_1
+    400108: Boss-Extrude4_1
+    400110: Boss-Extrude4_2
+    400112: Boss-Extrude4_3
+    400114: Boss-Extrude4_4
+    400116: Boss-Extrude4_5
+    400118: Boss-Extrude4_6
+    400120: Boss-Extrude5
+    400122: Boss-Extrude6
+    400124: Boss-Extrude6_1
+    400126: Boss-Extrude6_2
+    400128: Boss-Extrude6_3
+    400130: Boss-Extrude6_4
+    400132: Boss-Extrude6_5
+    400134: Boss-Extrude6_6
+    400136: Boss-Extrude7
+    400138: Boss-Extrude7_1
+    400140: Boss-Extrude8
+    400142: Boss-Extrude8_1
+    400144: Boss-Extrude9
+    400146: Boss-Extrude9_1
+    400148: Chamfer1
+    400150: Chamfer1_1
+    400152: CirPattern1
+    400154: CirPattern1[10]
+    400156: CirPattern1[11]
+    400158: CirPattern1[12]
+    400160: CirPattern1[13]
+    400162: CirPattern1[14]
+    400164: CirPattern1[15]
+    400166: CirPattern1[16]
+    400168: CirPattern1[17]
+    400170: CirPattern1[18]
+    400172: CirPattern1[19]
+    400174: CirPattern1[1]
+    400176: CirPattern1[1]_1
+    400178: CirPattern1[21]
+    400180: CirPattern1[22]
+    400182: CirPattern1[23]
+    400184: CirPattern1[24]
+    400186: CirPattern1[25]
+    400188: CirPattern1[26]
+    400190: CirPattern1[27]
+    400192: CirPattern1[28]
+    400194: CirPattern1[29]
+    400196: CirPattern1[2]
+    400198: CirPattern1[2]_1
+    400200: CirPattern1[30]
+    400202: CirPattern1[31]
+    400204: CirPattern1[32]
+    400206: CirPattern1[33]
+    400208: CirPattern1[34]
+    400210: CirPattern1[35]
+    400212: CirPattern1[36]
+    400214: CirPattern1[37]
+    400216: CirPattern1[38]
+    400218: CirPattern1[39]
+    400220: CirPattern1[3]
+    400222: CirPattern1[40]
+    400224: CirPattern1[41]
+    400226: CirPattern1[42]
+    400228: CirPattern1[43]
+    400230: CirPattern1[44]
+    400232: CirPattern1[45]
+    400234: CirPattern1[46]
+    400236: CirPattern1[47]
+    400238: CirPattern1[48]
+    400240: CirPattern1[49]
+    400242: CirPattern1[4]
+    400244: CirPattern1[50]
+    400246: CirPattern1[51]
+    400248: CirPattern1[52]
+    400250: CirPattern1[53]
+    400252: CirPattern1[54]
+    400254: CirPattern1[55]
+    400256: CirPattern1[56]
+    400258: CirPattern1[57]
+    400260: CirPattern1[58]
+    400262: CirPattern1[59]
+    400264: CirPattern1[60]
+    400266: CirPattern1[6]
+    400268: CirPattern1[7]
+    400270: CirPattern1[8]
+    400272: CirPattern1[9]
+    400274: CirPattern1_1
+    400276: CirPattern1_2
+    400278: CirPattern1_3
+    400280: CirPattern1_4
+    400282: CirPattern1_5
+    400284: CirPattern2
+    400286: CirPattern2[10]
+    400288: CirPattern2[1]
+    400290: CirPattern2[2]
+    400292: CirPattern2[3]
+    400294: CirPattern2[4]
+    400296: CirPattern2[5]
+    400298: CirPattern2[6]
+    400300: CirPattern2[7]
+    400302: CirPattern2[8]
+    400304: CirPattern2[9]
+    400306: Cut-Extrude1
+    400308: Cut-Extrude1[1]
+    400310: Cut-Extrude1[2]
+    400312: Cut-Extrude1[3]
+    400314: Cut-Extrude1_1
+    400316: Cut-Extrude1_2
+    400318: Cut-Extrude1_3
+    400320: Cut-Extrude24
+    400322: Cut-Extrude3
+    400324: Cut-Extrude31
+    400326: Cut-Extrude32
+    400328: Cut-Extrude33
+    400330: Cut-Extrude34
+    400332: Cut-Extrude35
+    400334: Cut-Extrude4
+    400336: Cut-Extrude6
+    400338: End cap1
+    400340: End cap2
+    400342: Extrude-Thin1
+    400344: Extrude-Thin1_1
+    400346: Extrude-Thin2
+    400348: Extrude-Thin4
+    400350: Fillet1
+    400352: Fillet10
+    400354: Fillet10_1
+    400356: Fillet1_1
+    400358: Fillet2
+    400360: Fillet2_1
+    400362: Fillet2_2
+    400364: Fillet2_3
+    400366: Fillet3
+    400368: Fillet4
+    400370: Fillet4_1
+    400372: Fillet4_2
+    400374: Fillet4_3
+    400376: Fillet5
+    400378: Fillet56
+    400380: Fillet6
+    400382: Fillet6_1
+    400384: Fillet7
+    400386: Fillet8
+    400388: Fork01
+    400390: Fork02
+    400392: Fork_Assey
+    400394: Fork_lift001
+    400396: //RootNode
+    400398: gm vypinac_P-C1553AB01GT:1
+    400400: gm vypinac_P-C1553AB01GT:2
+    400402: gm vypinac_P-C1553AB01GT:3
+    400404: gm vypinac_P-C1553AB01GT:4
+    400406: LPattern1
+    400408: LPattern1[10]
+    400410: LPattern1[11]
+    400412: LPattern1[12]
+    400414: LPattern1[13]
+    400416: LPattern1[14]
+    400418: LPattern1[15]
+    400420: LPattern1[16]
+    400422: LPattern1[17]
+    400424: LPattern1[1]
+    400426: LPattern1[2]
+    400428: LPattern1[3]
+    400430: LPattern1[4]
+    400432: LPattern1[5]
+    400434: LPattern1[6]
+    400436: LPattern1[7]
+    400438: LPattern1[8]
+    400440: LPattern1[9]
+    400442: Mirror1
+    400444: Mirror11
+    400446: Mirror12[1]
+    400448: Mirror12[2]
+    400450: Mirror12[3]
+    400452: Mirror12[4]
+    400454: Mirror12[5]
+    400456: Mirror12[6]
+    400458: Mirror12[7]
+    400460: Mirror14
+    400462: Mirror15
+    400464: Mirror16[1]
+    400466: Mirror16[2]
+    400468: Mirror17[1]
+    400470: Mirror17[2]
+    400472: Mirror18
+    400474: Mirror19[1]
+    400476: Mirror19[2]
+    400478: Mirror19[3]
+    400480: Mirror19[4]
+    400482: Mirror1[2]
+    400484: Mirror1[3]
+    400486: Mirror1_1
+    400488: Mirror1_2
+    400490: Mirror1_3
+    400492: Mirror1_4
+    400494: Mirror2
+    400496: Mirror21[1]
+    400498: Mirror21[2]
+    400500: Mirror22
+    400502: Mirror23
+    400504: Mirror24[1]
+    400506: Mirror24[2]
+    400508: Mirror25
+    400510: Mirror26[1]
+    400512: Mirror26[2]
+    400514: Mirror2[1]
+    400516: Mirror2[1]_1
+    400518: Mirror2[2]
+    400520: Mirror2[2]_1
+    400522: Mirror2[3]
+    400524: Mirror2[4]
+    400526: Mirror3
+    400528: Mirror3[1]
+    400530: Mirror3[2]
+    400532: Mirror3[3]
+    400534: Mirror3_1
+    400536: Mirror4[1]
+    400538: Mirror4[2]
+    400540: Mirror4[3]
+    400542: Mirror5
+    400544: Mirror6[1]
+    400546: Mirror6[2]
+    400548: Mirror6_11
+    400550: Mirror7
+    400552: Mirror7[1]
+    400554: Mirror7[2]
+    400556: Mirror8
+    400558: Mirror9
+    400560: Part14:1
+    400562: Part1:1
+    400564: Part23:1
+    400566: Rear Tyres
+    400568: Revolve1
+    400570: Revolve1_1
+    400572: Revolve2
+    400574: Revolve2_1
+    400576: Revolve2_2
+    400578: Revolve3
+    400580: seats:1
+    400582: Shell1
+    400584: Shell1_1
+    400586: Shell2
+    400588: Shell4
+    400590: Shell5
+    400592: Solid1
+    400594: Solid1 1
+    400596: Solid1 2
+    400598: Solid29
+    400600: Solid29 1
+    400602: Solid30
+    400604: Solid31
+    400606: Solid31 1
+    400608: Solid32
+    400610: Solid33
+    400612: Solid34
+    400614: Solid35
+    400616: Solid36
+    400618: Solid37
+    400620: Solid48
+    400622: Solid49
+    400624: Solid50
+    400626: Sweep1
+    400628: Sweep2
+    400630: Thicken3
+    400632: Trim_Extend4[1]
+    400634: Trim_Extend5
+    400636: Trim_Extend6[1]
+    400638: Trim_Extend6[2]
+    400640: Trim_Extend6[3]
+    400642: Tyre01
+    400644: Tyre02
+    400646: "t\xE4ndningsl\xE5s:1"
+    400648: "T\u011Bleso5"
+    400650: "T\u011Bleso5 1"
+    400652: "T\u011Bleso5 2"
+    400654: "T\u011Bleso5 3"
+    400656: "T\u011Bleso6"
+    400658: "T\u011Bleso6 1"
+    400660: "T\u011Bleso6 2"
+    400662: "T\u011Bleso6 3"
+    400664: "T\u011Bleso7"
+    400666: "T\u011Bleso7 1"
+    400668: "T\u011Bleso7 10"
+    400670: "T\u011Bleso7 11"
+    400672: "T\u011Bleso7 12"
+    400674: "T\u011Bleso7 13"
+    400676: "T\u011Bleso7 14"
+    400678: "T\u011Bleso7 15"
+    400680: "T\u011Bleso7 16"
+    400682: "T\u011Bleso7 17"
+    400684: "T\u011Bleso7 18"
+    400686: "T\u011Bleso7 19"
+    400688: "T\u011Bleso7 2"
+    400690: "T\u011Bleso7 20"
+    400692: "T\u011Bleso7 21"
+    400694: "T\u011Bleso7 22"
+    400696: "T\u011Bleso7 23"
+    400698: "T\u011Bleso7 3"
+    400700: "T\u011Bleso7 4"
+    400702: "T\u011Bleso7 5"
+    400704: "T\u011Bleso7 6"
+    400706: "T\u011Bleso7 7"
+    400708: "T\u011Bleso7 8"
+    400710: "T\u011Bleso7 9"
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2100006: 'Material #30'
+    2100008: 'Material #31'
+    2100010: 'Material #72'
+    2100012: 'Material #74'
+    2100014: 'Material #75'
+    2100016: 'Material #76'
+    2100018: 'Material #77'
+    2100020: 'Material #78'
+    2100022: 'Material #37'
+    2100024: 'Material #79'
+    2100026: 'Material #32'
+    2100028: 'Material #33'
+    2100030: 'Material #34'
+    2100032: 'Material #38'
+    2100034: 'Material #42'
+    2100036: 'Material #43'
+    2100038: 'Material #44'
+    2100040: 'Material #45'
+    2100042: 'Material #46'
+    2100044: 'Material #54'
+    2100046: 'Material #55'
+    2100048: 'Material #41'
+    2100050: 'Material #53'
+    2300000: _GC_Rear wheel hub_-_CirPattern2_
+    2300002: Boss-Extrude1
+    2300004: Boss-Extrude10
+    2300006: Boss-Extrude10[1]
+    2300008: Boss-Extrude10[2]
+    2300010: Boss-Extrude12
+    2300012: Boss-Extrude12_1
+    2300014: Boss-Extrude13
+    2300016: Boss-Extrude13[1]
+    2300018: Boss-Extrude13[2]
+    2300020: Boss-Extrude14
+    2300022: Boss-Extrude16
+    2300024: Boss-Extrude19
+    2300026: Boss-Extrude1_1
+    2300028: Boss-Extrude1_2
+    2300030: Boss-Extrude1_3
+    2300032: Boss-Extrude1_4
+    2300034: Boss-Extrude2
+    2300036: Boss-Extrude20
+    2300038: Boss-Extrude21
+    2300040: Boss-Extrude22
+    2300042: Boss-Extrude23
+    2300044: Boss-Extrude25
+    2300046: Boss-Extrude27
+    2300048: Boss-Extrude28
+    2300050: Boss-Extrude29
+    2300052: Boss-Extrude2[1]
+    2300054: Boss-Extrude2[2]
+    2300056: Boss-Extrude2_1
+    2300058: Boss-Extrude2_2
+    2300060: Boss-Extrude2_3
+    2300062: Boss-Extrude2_4
+    2300064: Boss-Extrude2_5
+    2300066: Boss-Extrude2_6
+    2300068: Boss-Extrude2_7
+    2300070: Boss-Extrude3
+    2300072: Boss-Extrude30
+    2300074: Boss-Extrude3[1]
+    2300076: Boss-Extrude3[2]
+    2300078: Boss-Extrude3_1
+    2300080: Boss-Extrude3_10
+    2300082: Boss-Extrude3_2
+    2300084: Boss-Extrude3_3
+    2300086: Boss-Extrude3_4
+    2300088: Boss-Extrude3_5
+    2300090: Boss-Extrude3_6
+    2300092: Boss-Extrude3_7
+    2300094: Boss-Extrude3_8
+    2300096: Boss-Extrude3_9
+    2300098: Boss-Extrude4
+    2300100: Boss-Extrude4[1]
+    2300102: Boss-Extrude4[1]_1
+    2300104: Boss-Extrude4[2]
+    2300106: Boss-Extrude4[2]_1
+    2300108: Boss-Extrude4_1
+    2300110: Boss-Extrude4_2
+    2300112: Boss-Extrude4_3
+    2300114: Boss-Extrude4_4
+    2300116: Boss-Extrude4_5
+    2300118: Boss-Extrude4_6
+    2300120: Boss-Extrude5
+    2300122: Boss-Extrude6
+    2300124: Boss-Extrude6_1
+    2300126: Boss-Extrude6_2
+    2300128: Boss-Extrude6_3
+    2300130: Boss-Extrude6_4
+    2300132: Boss-Extrude6_5
+    2300134: Boss-Extrude6_6
+    2300136: Boss-Extrude7
+    2300138: Boss-Extrude7_1
+    2300140: Boss-Extrude8
+    2300142: Boss-Extrude8_1
+    2300144: Boss-Extrude9
+    2300146: Boss-Extrude9_1
+    2300148: Chamfer1
+    2300150: Chamfer1_1
+    2300152: CirPattern1
+    2300154: CirPattern1[10]
+    2300156: CirPattern1[11]
+    2300158: CirPattern1[12]
+    2300160: CirPattern1[13]
+    2300162: CirPattern1[14]
+    2300164: CirPattern1[15]
+    2300166: CirPattern1[16]
+    2300168: CirPattern1[17]
+    2300170: CirPattern1[18]
+    2300172: CirPattern1[19]
+    2300174: CirPattern1[1]
+    2300176: CirPattern1[1]_1
+    2300178: CirPattern1[21]
+    2300180: CirPattern1[22]
+    2300182: CirPattern1[23]
+    2300184: CirPattern1[24]
+    2300186: CirPattern1[25]
+    2300188: CirPattern1[26]
+    2300190: CirPattern1[27]
+    2300192: CirPattern1[28]
+    2300194: CirPattern1[29]
+    2300196: CirPattern1[2]
+    2300198: CirPattern1[2]_1
+    2300200: CirPattern1[30]
+    2300202: CirPattern1[31]
+    2300204: CirPattern1[32]
+    2300206: CirPattern1[33]
+    2300208: CirPattern1[34]
+    2300210: CirPattern1[35]
+    2300212: CirPattern1[36]
+    2300214: CirPattern1[37]
+    2300216: CirPattern1[38]
+    2300218: CirPattern1[39]
+    2300220: CirPattern1[3]
+    2300222: CirPattern1[40]
+    2300224: CirPattern1[41]
+    2300226: CirPattern1[42]
+    2300228: CirPattern1[43]
+    2300230: CirPattern1[44]
+    2300232: CirPattern1[45]
+    2300234: CirPattern1[46]
+    2300236: CirPattern1[47]
+    2300238: CirPattern1[48]
+    2300240: CirPattern1[49]
+    2300242: CirPattern1[4]
+    2300244: CirPattern1[50]
+    2300246: CirPattern1[51]
+    2300248: CirPattern1[52]
+    2300250: CirPattern1[53]
+    2300252: CirPattern1[54]
+    2300254: CirPattern1[55]
+    2300256: CirPattern1[56]
+    2300258: CirPattern1[57]
+    2300260: CirPattern1[58]
+    2300262: CirPattern1[59]
+    2300264: CirPattern1[60]
+    2300266: CirPattern1[6]
+    2300268: CirPattern1[7]
+    2300270: CirPattern1[8]
+    2300272: CirPattern1[9]
+    2300274: CirPattern1_1
+    2300276: CirPattern1_2
+    2300278: CirPattern1_3
+    2300280: CirPattern1_4
+    2300282: CirPattern1_5
+    2300284: CirPattern2
+    2300286: CirPattern2[10]
+    2300288: CirPattern2[1]
+    2300290: CirPattern2[2]
+    2300292: CirPattern2[3]
+    2300294: CirPattern2[4]
+    2300296: CirPattern2[5]
+    2300298: CirPattern2[6]
+    2300300: CirPattern2[7]
+    2300302: CirPattern2[8]
+    2300304: CirPattern2[9]
+    2300306: Cut-Extrude1
+    2300308: Cut-Extrude1[1]
+    2300310: Cut-Extrude1[2]
+    2300312: Cut-Extrude1[3]
+    2300314: Cut-Extrude1_1
+    2300316: Cut-Extrude1_2
+    2300318: Cut-Extrude1_3
+    2300320: Cut-Extrude24
+    2300322: Cut-Extrude3
+    2300324: Cut-Extrude31
+    2300326: Cut-Extrude32
+    2300328: Cut-Extrude33
+    2300330: Cut-Extrude34
+    2300332: Cut-Extrude35
+    2300334: Cut-Extrude4
+    2300336: Cut-Extrude6
+    2300338: End cap1
+    2300340: End cap2
+    2300342: Extrude-Thin1
+    2300344: Extrude-Thin1_1
+    2300346: Extrude-Thin2
+    2300348: Extrude-Thin4
+    2300350: Fillet1
+    2300352: Fillet10
+    2300354: Fillet10_1
+    2300356: Fillet1_1
+    2300358: Fillet2
+    2300360: Fillet2_1
+    2300362: Fillet2_2
+    2300364: Fillet2_3
+    2300366: Fillet3
+    2300368: Fillet4
+    2300370: Fillet4_1
+    2300372: Fillet4_2
+    2300374: Fillet4_3
+    2300376: Fillet5
+    2300378: Fillet56
+    2300380: Fillet6
+    2300382: Fillet6_1
+    2300384: Fillet7
+    2300386: Fillet8
+    2300388: LPattern1
+    2300390: LPattern1[10]
+    2300392: LPattern1[11]
+    2300394: LPattern1[12]
+    2300396: LPattern1[13]
+    2300398: LPattern1[14]
+    2300400: LPattern1[15]
+    2300402: LPattern1[16]
+    2300404: LPattern1[17]
+    2300406: LPattern1[1]
+    2300408: LPattern1[2]
+    2300410: LPattern1[3]
+    2300412: LPattern1[4]
+    2300414: LPattern1[5]
+    2300416: LPattern1[6]
+    2300418: LPattern1[7]
+    2300420: LPattern1[8]
+    2300422: LPattern1[9]
+    2300424: Mirror1
+    2300426: Mirror11
+    2300428: Mirror12[1]
+    2300430: Mirror12[2]
+    2300432: Mirror12[3]
+    2300434: Mirror12[4]
+    2300436: Mirror12[5]
+    2300438: Mirror12[6]
+    2300440: Mirror12[7]
+    2300442: Mirror14
+    2300444: Mirror15
+    2300446: Mirror16[1]
+    2300448: Mirror16[2]
+    2300450: Mirror17[1]
+    2300452: Mirror17[2]
+    2300454: Mirror18
+    2300456: Mirror19[1]
+    2300458: Mirror19[2]
+    2300460: Mirror19[3]
+    2300462: Mirror19[4]
+    2300464: Mirror1[2]
+    2300466: Mirror1[3]
+    2300468: Mirror1_1
+    2300470: Mirror1_2
+    2300472: Mirror1_3
+    2300474: Mirror1_4
+    2300476: Mirror2
+    2300478: Mirror21[1]
+    2300480: Mirror21[2]
+    2300482: Mirror22
+    2300484: Mirror23
+    2300486: Mirror24[1]
+    2300488: Mirror24[2]
+    2300490: Mirror25
+    2300492: Mirror26[1]
+    2300494: Mirror26[2]
+    2300496: Mirror2[1]
+    2300498: Mirror2[1]_1
+    2300500: Mirror2[2]
+    2300502: Mirror2[2]_1
+    2300504: Mirror2[3]
+    2300506: Mirror2[4]
+    2300508: Mirror3
+    2300510: Mirror3[1]
+    2300512: Mirror3[2]
+    2300514: Mirror3[3]
+    2300516: Mirror3_1
+    2300518: Mirror4[1]
+    2300520: Mirror4[2]
+    2300522: Mirror4[3]
+    2300524: Mirror5
+    2300526: Mirror6[1]
+    2300528: Mirror6[2]
+    2300530: Mirror6_11
+    2300532: Mirror7
+    2300534: Mirror7[1]
+    2300536: Mirror7[2]
+    2300538: Mirror8
+    2300540: Mirror9
+    2300542: Revolve1
+    2300544: Revolve1_1
+    2300546: Revolve2
+    2300548: Revolve2_1
+    2300550: Revolve2_2
+    2300552: Revolve3
+    2300554: Shell1
+    2300556: Shell1_1
+    2300558: Shell2
+    2300560: Shell4
+    2300562: Shell5
+    2300564: Solid1
+    2300566: Solid1 1
+    2300568: Solid1 2
+    2300570: Solid29
+    2300572: Solid29 1
+    2300574: Solid30
+    2300576: Solid31
+    2300578: Solid31 1
+    2300580: Solid32
+    2300582: Solid33
+    2300584: Solid34
+    2300586: Solid35
+    2300588: Solid36
+    2300590: Solid37
+    2300592: Solid48
+    2300594: Solid49
+    2300596: Solid50
+    2300598: Sweep1
+    2300600: Sweep2
+    2300602: Thicken3
+    2300604: Trim_Extend4[1]
+    2300606: Trim_Extend5
+    2300608: Trim_Extend6[1]
+    2300610: Trim_Extend6[2]
+    2300612: Trim_Extend6[3]
+    2300614: "T\u011Bleso5"
+    2300616: "T\u011Bleso5 1"
+    2300618: "T\u011Bleso5 2"
+    2300620: "T\u011Bleso5 3"
+    2300622: "T\u011Bleso6"
+    2300624: "T\u011Bleso6 1"
+    2300626: "T\u011Bleso6 2"
+    2300628: "T\u011Bleso6 3"
+    2300630: "T\u011Bleso7"
+    2300632: "T\u011Bleso7 1"
+    2300634: "T\u011Bleso7 10"
+    2300636: "T\u011Bleso7 11"
+    2300638: "T\u011Bleso7 12"
+    2300640: "T\u011Bleso7 13"
+    2300642: "T\u011Bleso7 14"
+    2300644: "T\u011Bleso7 15"
+    2300646: "T\u011Bleso7 16"
+    2300648: "T\u011Bleso7 17"
+    2300650: "T\u011Bleso7 18"
+    2300652: "T\u011Bleso7 19"
+    2300654: "T\u011Bleso7 2"
+    2300656: "T\u011Bleso7 20"
+    2300658: "T\u011Bleso7 21"
+    2300660: "T\u011Bleso7 22"
+    2300662: "T\u011Bleso7 23"
+    2300664: "T\u011Bleso7 3"
+    2300666: "T\u011Bleso7 4"
+    2300668: "T\u011Bleso7 5"
+    2300670: "T\u011Bleso7 6"
+    2300672: "T\u011Bleso7 7"
+    2300674: "T\u011Bleso7 8"
+    2300676: "T\u011Bleso7 9"
+    3300000: _GC_Rear wheel hub_-_CirPattern2_
+    3300002: Boss-Extrude1
+    3300004: Boss-Extrude10
+    3300006: Boss-Extrude10[1]
+    3300008: Boss-Extrude10[2]
+    3300010: Boss-Extrude12
+    3300012: Boss-Extrude12_1
+    3300014: Boss-Extrude13
+    3300016: Boss-Extrude13[1]
+    3300018: Boss-Extrude13[2]
+    3300020: Boss-Extrude14
+    3300022: Boss-Extrude16
+    3300024: Boss-Extrude19
+    3300026: Boss-Extrude1_1
+    3300028: Boss-Extrude1_2
+    3300030: Boss-Extrude1_3
+    3300032: Boss-Extrude1_4
+    3300034: Boss-Extrude2
+    3300036: Boss-Extrude20
+    3300038: Boss-Extrude21
+    3300040: Boss-Extrude22
+    3300042: Boss-Extrude23
+    3300044: Boss-Extrude25
+    3300046: Boss-Extrude27
+    3300048: Boss-Extrude28
+    3300050: Boss-Extrude29
+    3300052: Boss-Extrude2[1]
+    3300054: Boss-Extrude2[2]
+    3300056: Boss-Extrude2_1
+    3300058: Boss-Extrude2_2
+    3300060: Boss-Extrude2_3
+    3300062: Boss-Extrude2_4
+    3300064: Boss-Extrude2_5
+    3300066: Boss-Extrude2_6
+    3300068: Boss-Extrude2_7
+    3300070: Boss-Extrude3
+    3300072: Boss-Extrude30
+    3300074: Boss-Extrude3[1]
+    3300076: Boss-Extrude3[2]
+    3300078: Boss-Extrude3_1
+    3300080: Boss-Extrude3_10
+    3300082: Boss-Extrude3_2
+    3300084: Boss-Extrude3_3
+    3300086: Boss-Extrude3_4
+    3300088: Boss-Extrude3_5
+    3300090: Boss-Extrude3_6
+    3300092: Boss-Extrude3_7
+    3300094: Boss-Extrude3_8
+    3300096: Boss-Extrude3_9
+    3300098: Boss-Extrude4
+    3300100: Boss-Extrude4[1]
+    3300102: Boss-Extrude4[1]_1
+    3300104: Boss-Extrude4[2]
+    3300106: Boss-Extrude4[2]_1
+    3300108: Boss-Extrude4_1
+    3300110: Boss-Extrude4_2
+    3300112: Boss-Extrude4_3
+    3300114: Boss-Extrude4_4
+    3300116: Boss-Extrude4_5
+    3300118: Boss-Extrude4_6
+    3300120: Boss-Extrude5
+    3300122: Boss-Extrude6
+    3300124: Boss-Extrude6_1
+    3300126: Boss-Extrude6_2
+    3300128: Boss-Extrude6_3
+    3300130: Boss-Extrude6_4
+    3300132: Boss-Extrude6_5
+    3300134: Boss-Extrude6_6
+    3300136: Boss-Extrude7
+    3300138: Boss-Extrude7_1
+    3300140: Boss-Extrude8
+    3300142: Boss-Extrude8_1
+    3300144: Boss-Extrude9
+    3300146: Boss-Extrude9_1
+    3300148: Chamfer1
+    3300150: Chamfer1_1
+    3300152: CirPattern1
+    3300154: CirPattern1[10]
+    3300156: CirPattern1[11]
+    3300158: CirPattern1[12]
+    3300160: CirPattern1[13]
+    3300162: CirPattern1[14]
+    3300164: CirPattern1[15]
+    3300166: CirPattern1[16]
+    3300168: CirPattern1[17]
+    3300170: CirPattern1[18]
+    3300172: CirPattern1[19]
+    3300174: CirPattern1[1]
+    3300176: CirPattern1[1]_1
+    3300178: CirPattern1[21]
+    3300180: CirPattern1[22]
+    3300182: CirPattern1[23]
+    3300184: CirPattern1[24]
+    3300186: CirPattern1[25]
+    3300188: CirPattern1[26]
+    3300190: CirPattern1[27]
+    3300192: CirPattern1[28]
+    3300194: CirPattern1[29]
+    3300196: CirPattern1[2]
+    3300198: CirPattern1[2]_1
+    3300200: CirPattern1[30]
+    3300202: CirPattern1[31]
+    3300204: CirPattern1[32]
+    3300206: CirPattern1[33]
+    3300208: CirPattern1[34]
+    3300210: CirPattern1[35]
+    3300212: CirPattern1[36]
+    3300214: CirPattern1[37]
+    3300216: CirPattern1[38]
+    3300218: CirPattern1[39]
+    3300220: CirPattern1[3]
+    3300222: CirPattern1[40]
+    3300224: CirPattern1[41]
+    3300226: CirPattern1[42]
+    3300228: CirPattern1[43]
+    3300230: CirPattern1[44]
+    3300232: CirPattern1[45]
+    3300234: CirPattern1[46]
+    3300236: CirPattern1[47]
+    3300238: CirPattern1[48]
+    3300240: CirPattern1[49]
+    3300242: CirPattern1[4]
+    3300244: CirPattern1[50]
+    3300246: CirPattern1[51]
+    3300248: CirPattern1[52]
+    3300250: CirPattern1[53]
+    3300252: CirPattern1[54]
+    3300254: CirPattern1[55]
+    3300256: CirPattern1[56]
+    3300258: CirPattern1[57]
+    3300260: CirPattern1[58]
+    3300262: CirPattern1[59]
+    3300264: CirPattern1[60]
+    3300266: CirPattern1[6]
+    3300268: CirPattern1[7]
+    3300270: CirPattern1[8]
+    3300272: CirPattern1[9]
+    3300274: CirPattern1_1
+    3300276: CirPattern1_2
+    3300278: CirPattern1_3
+    3300280: CirPattern1_4
+    3300282: CirPattern1_5
+    3300284: CirPattern2
+    3300286: CirPattern2[10]
+    3300288: CirPattern2[1]
+    3300290: CirPattern2[2]
+    3300292: CirPattern2[3]
+    3300294: CirPattern2[4]
+    3300296: CirPattern2[5]
+    3300298: CirPattern2[6]
+    3300300: CirPattern2[7]
+    3300302: CirPattern2[8]
+    3300304: CirPattern2[9]
+    3300306: Cut-Extrude1
+    3300308: Cut-Extrude1[1]
+    3300310: Cut-Extrude1[2]
+    3300312: Cut-Extrude1[3]
+    3300314: Cut-Extrude1_1
+    3300316: Cut-Extrude1_2
+    3300318: Cut-Extrude1_3
+    3300320: Cut-Extrude24
+    3300322: Cut-Extrude3
+    3300324: Cut-Extrude31
+    3300326: Cut-Extrude32
+    3300328: Cut-Extrude33
+    3300330: Cut-Extrude34
+    3300332: Cut-Extrude35
+    3300334: Cut-Extrude4
+    3300336: Cut-Extrude6
+    3300338: End cap1
+    3300340: End cap2
+    3300342: Extrude-Thin1
+    3300344: Extrude-Thin1_1
+    3300346: Extrude-Thin2
+    3300348: Extrude-Thin4
+    3300350: Fillet1
+    3300352: Fillet10
+    3300354: Fillet10_1
+    3300356: Fillet1_1
+    3300358: Fillet2
+    3300360: Fillet2_1
+    3300362: Fillet2_2
+    3300364: Fillet2_3
+    3300366: Fillet3
+    3300368: Fillet4
+    3300370: Fillet4_1
+    3300372: Fillet4_2
+    3300374: Fillet4_3
+    3300376: Fillet5
+    3300378: Fillet56
+    3300380: Fillet6
+    3300382: Fillet6_1
+    3300384: Fillet7
+    3300386: Fillet8
+    3300388: LPattern1
+    3300390: LPattern1[10]
+    3300392: LPattern1[11]
+    3300394: LPattern1[12]
+    3300396: LPattern1[13]
+    3300398: LPattern1[14]
+    3300400: LPattern1[15]
+    3300402: LPattern1[16]
+    3300404: LPattern1[17]
+    3300406: LPattern1[1]
+    3300408: LPattern1[2]
+    3300410: LPattern1[3]
+    3300412: LPattern1[4]
+    3300414: LPattern1[5]
+    3300416: LPattern1[6]
+    3300418: LPattern1[7]
+    3300420: LPattern1[8]
+    3300422: LPattern1[9]
+    3300424: Mirror1
+    3300426: Mirror11
+    3300428: Mirror12[1]
+    3300430: Mirror12[2]
+    3300432: Mirror12[3]
+    3300434: Mirror12[4]
+    3300436: Mirror12[5]
+    3300438: Mirror12[6]
+    3300440: Mirror12[7]
+    3300442: Mirror14
+    3300444: Mirror15
+    3300446: Mirror16[1]
+    3300448: Mirror16[2]
+    3300450: Mirror17[1]
+    3300452: Mirror17[2]
+    3300454: Mirror18
+    3300456: Mirror19[1]
+    3300458: Mirror19[2]
+    3300460: Mirror19[3]
+    3300462: Mirror19[4]
+    3300464: Mirror1[2]
+    3300466: Mirror1[3]
+    3300468: Mirror1_1
+    3300470: Mirror1_2
+    3300472: Mirror1_3
+    3300474: Mirror1_4
+    3300476: Mirror2
+    3300478: Mirror21[1]
+    3300480: Mirror21[2]
+    3300482: Mirror22
+    3300484: Mirror23
+    3300486: Mirror24[1]
+    3300488: Mirror24[2]
+    3300490: Mirror25
+    3300492: Mirror26[1]
+    3300494: Mirror26[2]
+    3300496: Mirror2[1]
+    3300498: Mirror2[1]_1
+    3300500: Mirror2[2]
+    3300502: Mirror2[2]_1
+    3300504: Mirror2[3]
+    3300506: Mirror2[4]
+    3300508: Mirror3
+    3300510: Mirror3[1]
+    3300512: Mirror3[2]
+    3300514: Mirror3[3]
+    3300516: Mirror3_1
+    3300518: Mirror4[1]
+    3300520: Mirror4[2]
+    3300522: Mirror4[3]
+    3300524: Mirror5
+    3300526: Mirror6[1]
+    3300528: Mirror6[2]
+    3300530: Mirror6_11
+    3300532: Mirror7
+    3300534: Mirror7[1]
+    3300536: Mirror7[2]
+    3300538: Mirror8
+    3300540: Mirror9
+    3300542: Revolve1
+    3300544: Revolve1_1
+    3300546: Revolve2
+    3300548: Revolve2_1
+    3300550: Revolve2_2
+    3300552: Revolve3
+    3300554: Shell1
+    3300556: Shell1_1
+    3300558: Shell2
+    3300560: Shell4
+    3300562: Shell5
+    3300564: Solid1
+    3300566: Solid1 1
+    3300568: Solid1 2
+    3300570: Solid29
+    3300572: Solid29 1
+    3300574: Solid30
+    3300576: Solid31
+    3300578: Solid31 1
+    3300580: Solid32
+    3300582: Solid33
+    3300584: Solid34
+    3300586: Solid35
+    3300588: Solid36
+    3300590: Solid37
+    3300592: Solid48
+    3300594: Solid49
+    3300596: Solid50
+    3300598: Sweep1
+    3300600: Sweep2
+    3300602: Thicken3
+    3300604: Trim_Extend4[1]
+    3300606: Trim_Extend5
+    3300608: Trim_Extend6[1]
+    3300610: Trim_Extend6[2]
+    3300612: Trim_Extend6[3]
+    3300614: "T\u011Bleso5"
+    3300616: "T\u011Bleso5 1"
+    3300618: "T\u011Bleso5 2"
+    3300620: "T\u011Bleso5 3"
+    3300622: "T\u011Bleso6"
+    3300624: "T\u011Bleso6 1"
+    3300626: "T\u011Bleso6 2"
+    3300628: "T\u011Bleso6 3"
+    3300630: "T\u011Bleso7"
+    3300632: "T\u011Bleso7 1"
+    3300634: "T\u011Bleso7 10"
+    3300636: "T\u011Bleso7 11"
+    3300638: "T\u011Bleso7 12"
+    3300640: "T\u011Bleso7 13"
+    3300642: "T\u011Bleso7 14"
+    3300644: "T\u011Bleso7 15"
+    3300646: "T\u011Bleso7 16"
+    3300648: "T\u011Bleso7 17"
+    3300650: "T\u011Bleso7 18"
+    3300652: "T\u011Bleso7 19"
+    3300654: "T\u011Bleso7 2"
+    3300656: "T\u011Bleso7 20"
+    3300658: "T\u011Bleso7 21"
+    3300660: "T\u011Bleso7 22"
+    3300662: "T\u011Bleso7 23"
+    3300664: "T\u011Bleso7 3"
+    3300666: "T\u011Bleso7 4"
+    3300668: "T\u011Bleso7 5"
+    3300670: "T\u011Bleso7 6"
+    3300672: "T\u011Bleso7 7"
+    3300674: "T\u011Bleso7 8"
+    3300676: "T\u011Bleso7 9"
+    4300000: Solid29
+    4300002: Solid30
+    4300004: Solid31
+    4300006: Solid32
+    4300008: Solid33
+    4300010: Solid34
+    4300012: Solid35
+    4300014: Solid36
+    4300016: Solid37
+    4300018: Solid48
+    4300020: Solid49
+    4300022: Solid50
+    4300024: Solid1
+    4300026: Solid1
+    4300028: Thicken3
+    4300030: Fillet56
+    4300032: Mirror6_11
+    4300034: Solid1
+    4300036: "T\u011Bleso5"
+    4300038: "T\u011Bleso6"
+    4300040: "T\u011Bleso7"
+    4300042: "T\u011Bleso7"
+    4300044: "T\u011Bleso7"
+    4300046: "T\u011Bleso7"
+    4300048: "T\u011Bleso7"
+    4300050: "T\u011Bleso7"
+    4300052: "T\u011Bleso5"
+    4300054: "T\u011Bleso6"
+    4300056: "T\u011Bleso7"
+    4300058: "T\u011Bleso7"
+    4300060: "T\u011Bleso7"
+    4300062: "T\u011Bleso7"
+    4300064: "T\u011Bleso7"
+    4300066: "T\u011Bleso7"
+    4300068: "T\u011Bleso5"
+    4300070: "T\u011Bleso6"
+    4300072: "T\u011Bleso7"
+    4300074: "T\u011Bleso7"
+    4300076: "T\u011Bleso7"
+    4300078: "T\u011Bleso7"
+    4300080: "T\u011Bleso7"
+    4300082: "T\u011Bleso7"
+    4300084: "T\u011Bleso5"
+    4300086: "T\u011Bleso6"
+    4300088: "T\u011Bleso7"
+    4300090: "T\u011Bleso7"
+    4300092: "T\u011Bleso7"
+    4300094: "T\u011Bleso7"
+    4300096: "T\u011Bleso7"
+    4300098: "T\u011Bleso7"
+    4300100: Solid29
+    4300102: Solid31
+    4300104: Mirror7
+    4300106: Shell2
+    4300108: Mirror9
+    4300110: Fillet7
+    4300112: Shell4
+    4300114: Mirror11
+    4300116: Trim_Extend4[1]
+    4300118: Trim_Extend5
+    4300120: End cap1
+    4300122: Cut-Extrude24
+    4300124: End cap2
+    4300126: Mirror12[1]
+    4300128: Mirror12[2]
+    4300130: Mirror12[3]
+    4300132: Mirror12[4]
+    4300134: Mirror12[5]
+    4300136: Trim_Extend6[1]
+    4300138: Trim_Extend6[2]
+    4300140: Trim_Extend6[3]
+    4300142: Boss-Extrude12
+    4300144: LPattern1[1]
+    4300146: LPattern1[2]
+    4300148: LPattern1[3]
+    4300150: LPattern1[4]
+    4300152: LPattern1[5]
+    4300154: LPattern1[6]
+    4300156: LPattern1[7]
+    4300158: LPattern1[8]
+    4300160: LPattern1[9]
+    4300162: LPattern1[10]
+    4300164: LPattern1[11]
+    4300166: LPattern1[12]
+    4300168: LPattern1[13]
+    4300170: LPattern1[14]
+    4300172: LPattern1[15]
+    4300174: LPattern1[16]
+    4300176: LPattern1[17]
+    4300178: Boss-Extrude13[1]
+    4300180: Boss-Extrude13[2]
+    4300182: Mirror12[6]
+    4300184: Mirror12[7]
+    4300186: Fillet8
+    4300188: Mirror14
+    4300190: Shell5
+    4300192: Mirror15
+    4300194: Boss-Extrude16
+    4300196: Fillet10
+    4300198: Mirror16[1]
+    4300200: Mirror16[2]
+    4300202: Boss-Extrude19
+    4300204: Boss-Extrude20
+    4300206: Mirror17[1]
+    4300208: Mirror17[2]
+    4300210: CirPattern1[1]
+    4300212: CirPattern1[2]
+    4300214: CirPattern1[3]
+    4300216: CirPattern1[4]
+    4300218: CirPattern1[6]
+    4300220: CirPattern1[7]
+    4300222: CirPattern1[8]
+    4300224: CirPattern1[9]
+    4300226: CirPattern1[10]
+    4300228: CirPattern1[11]
+    4300230: CirPattern1[12]
+    4300232: CirPattern1[13]
+    4300234: CirPattern1[14]
+    4300236: CirPattern1[15]
+    4300238: CirPattern1[16]
+    4300240: CirPattern1[17]
+    4300242: CirPattern1[18]
+    4300244: CirPattern1[19]
+    4300246: CirPattern1[21]
+    4300248: CirPattern1[22]
+    4300250: CirPattern1[23]
+    4300252: CirPattern1[24]
+    4300254: CirPattern1[25]
+    4300256: CirPattern1[26]
+    4300258: CirPattern1[27]
+    4300260: CirPattern1[28]
+    4300262: CirPattern1[29]
+    4300264: CirPattern1[30]
+    4300266: CirPattern1[31]
+    4300268: CirPattern1[32]
+    4300270: CirPattern1[33]
+    4300272: CirPattern1[34]
+    4300274: CirPattern1[35]
+    4300276: CirPattern1[36]
+    4300278: CirPattern1[37]
+    4300280: CirPattern1[38]
+    4300282: CirPattern1[39]
+    4300284: CirPattern1[40]
+    4300286: CirPattern1[41]
+    4300288: CirPattern1[42]
+    4300290: CirPattern1[43]
+    4300292: CirPattern1[44]
+    4300294: CirPattern1[45]
+    4300296: CirPattern1[46]
+    4300298: CirPattern1[47]
+    4300300: CirPattern1[48]
+    4300302: CirPattern1[49]
+    4300304: CirPattern1[50]
+    4300306: CirPattern1[51]
+    4300308: CirPattern1[52]
+    4300310: CirPattern1[53]
+    4300312: CirPattern1[54]
+    4300314: CirPattern1[55]
+    4300316: CirPattern1[56]
+    4300318: CirPattern1[57]
+    4300320: CirPattern1[58]
+    4300322: CirPattern1[59]
+    4300324: CirPattern1[60]
+    4300326: Revolve2
+    4300328: Boss-Extrude21
+    4300330: Mirror18
+    4300332: CirPattern2[1]
+    4300334: CirPattern2[2]
+    4300336: CirPattern2[3]
+    4300338: CirPattern2[4]
+    4300340: CirPattern2[5]
+    4300342: CirPattern2[6]
+    4300344: CirPattern2[7]
+    4300346: CirPattern2[8]
+    4300348: CirPattern2[9]
+    4300350: CirPattern2[10]
+    4300352: Boss-Extrude22
+    4300354: Boss-Extrude23
+    4300356: Cut-Extrude31
+    4300358: Cut-Extrude32
+    4300360: Mirror19[1]
+    4300362: Mirror19[2]
+    4300364: Mirror19[3]
+    4300366: Mirror19[4]
+    4300368: Boss-Extrude25
+    4300370: Chamfer1
+    4300372: Boss-Extrude27
+    4300374: Mirror21[1]
+    4300376: Cut-Extrude33
+    4300378: Mirror22
+    4300380: Mirror21[2]
+    4300382: Boss-Extrude28
+    4300384: Mirror23
+    4300386: Mirror24[1]
+    4300388: Mirror24[2]
+    4300390: Extrude-Thin2
+    4300392: Mirror25
+    4300394: Cut-Extrude34
+    4300396: Revolve3
+    4300398: Cut-Extrude35
+    4300400: Boss-Extrude29
+    4300402: Boss-Extrude30
+    4300404: Mirror26[1]
+    4300406: Mirror26[2]
+    4300408: CirPattern1
+    4300410: CirPattern1_1
+    4300412: CirPattern1_2
+    4300414: CirPattern1_3
+    4300416: Mirror3
+    4300418: Boss-Extrude3
+    4300420: Boss-Extrude4[1]
+    4300422: Boss-Extrude4[2]
+    4300424: Boss-Extrude3_1
+    4300426: Boss-Extrude4[1]_1
+    4300428: Boss-Extrude4[2]_1
+    4300430: Boss-Extrude10
+    4300432: Mirror5
+    4300434: Mirror6[1]
+    4300436: Mirror6[2]
+    4300438: Boss-Extrude12_1
+    4300440: Boss-Extrude13
+    4300442: Mirror7[1]
+    4300444: Mirror7[2]
+    4300446: Shell1
+    4300448: Boss-Extrude2
+    4300450: Boss-Extrude3_3
+    4300452: Shell1_1
+    4300454: Boss-Extrude2_1
+    4300456: Boss-Extrude3_4
+    4300458: Boss-Extrude1
+    4300460: Boss-Extrude2_2
+    4300462: Boss-Extrude3_5
+    4300464: Boss-Extrude1_1
+    4300466: Boss-Extrude2_3
+    4300468: Boss-Extrude3_6
+    4300470: Boss-Extrude7
+    4300472: Chamfer1_1
+    4300474: Mirror2[1]
+    4300476: Mirror2[2]
+    4300478: Fillet6
+    4300480: Fillet10_1
+    4300482: Boss-Extrude3_10
+    4300484: Boss-Extrude4_5
+    4300486: Mirror1_4
+    4300488: Boss-Extrude2_7
+    4300490: Revolve1
+    4300492: Revolve2_1
+    4300494: Extrude-Thin1_1
+    4300496: CirPattern1[1]_1
+    4300498: CirPattern1[2]_1
+    4300500: Sweep1
+    4300502: Fillet3
+    4300504: Boss-Extrude3[1]
+    4300506: Boss-Extrude3[2]
+    4300508: Fillet4_1
+    4300510: Mirror1[2]
+    4300512: Mirror1[3]
+    4300514: Boss-Extrude4_6
+    4300516: Fillet1_1
+    4300518: Fillet2_1
+    4300520: Sweep2
+    4300522: Revolve1_1
+    4300524: Revolve2_2
+    4300526: Fillet6_1
+    4300528: Boss-Extrude6_6
+    4300530: Fillet4_2
+    4300532: Fillet4_3
+    4300534: Cut-Extrude1_2
+    4300536: Cut-Extrude1_3
+    4300538: Fillet2_2
+    4300540: Fillet2_3
+    4300542: Boss-Extrude6_5
+    4300544: CirPattern1_5
+    4300546: _GC_Rear wheel hub_-_CirPattern2_
+    4300548: Boss-Extrude6_2
+    4300550: Boss-Extrude6_3
+    4300552: Boss-Extrude6_1
+    4300554: Boss-Extrude6
+    4300556: Boss-Extrude6_4
+    4300558: CirPattern1_4
+    4300560: CirPattern2
+    4300562: Boss-Extrude2[1]
+    4300564: Boss-Extrude7_1
+    4300566: Extrude-Thin1
+    4300568: Fillet2
+    4300570: Mirror2[2]_1
+    4300572: Mirror2[1]_1
+    4300574: Cut-Extrude1[2]
+    4300576: Mirror3[2]
+    4300578: Mirror3[1]
+    4300580: Mirror3[3]
+    4300582: Boss-Extrude2[2]
+    4300584: Cut-Extrude1[3]
+    4300586: Cut-Extrude1[1]
+    4300588: Boss-Extrude10[1]
+    4300590: Boss-Extrude9_1
+    4300592: Boss-Extrude10[2]
+    4300594: Cut-Extrude1
+    4300596: Boss-Extrude1_3
+    4300598: Mirror1_2
+    4300600: Boss-Extrude3_8
+    4300602: Boss-Extrude2_5
+    4300604: Cut-Extrude1_1
+    4300606: Boss-Extrude1_4
+    4300608: Mirror1_3
+    4300610: Boss-Extrude2_6
+    4300612: Boss-Extrude3_9
+    4300614: Boss-Extrude4_3
+    4300616: Boss-Extrude4_4
+    4300618: Boss-Extrude4_2
+    4300620: Mirror1
+    4300622: Boss-Extrude4
+    4300624: Boss-Extrude2_4
+    4300626: Mirror1_1
+    4300628: Boss-Extrude1_2
+    4300630: Boss-Extrude4_1
+    4300632: Boss-Extrude3_2
+    4300634: Mirror8
+    4300636: Mirror3_1
+    4300638: Cut-Extrude3
+    4300640: Boss-Extrude14
+    4300642: Extrude-Thin4
+    4300644: Cut-Extrude6
+    4300646: Fillet5
+    4300648: Fillet4
+    4300650: Mirror4[1]
+    4300652: Mirror4[2]
+    4300654: Mirror4[3]
+    4300656: Cut-Extrude4
+    4300658: Boss-Extrude8
+    4300660: Boss-Extrude9
+    4300662: Boss-Extrude5
+    4300664: Mirror2[3]
+    4300666: Mirror2[4]
+    4300668: Fillet1
+    4300670: LPattern1
+    4300672: Mirror2
+    4300674: Boss-Extrude8_1
+    4300676: Boss-Extrude3_7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
